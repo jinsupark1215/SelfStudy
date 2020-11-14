@@ -123,7 +123,7 @@ IP 주소는 Network ID, Host ID로 나뉜다. Network id를 Subnet이라고 부
 
  사용자에게 보이는 부분이다. 응용프로그램은 사용자와 직접적으로 상호작용한다. 브라우저와 응용 프로그램이 대표적인 예이다. HTTP, FTP, SMTP, TELNET 등과 같은 프로토콜이 있다.
 
-### Parity Bit
+### Parity Bit - 오류를 체크하기 위한 비트
 
 ![img](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMTVfNDgg/MDAxNDgxNzc4Mjg0NTk2.Ln8Hqrvkg1KjguXpEf9ISN9Cqijkg7rnvu0JUjMJ4Dwg.HCbNEziV16sQvFmbRAPsVzZrvYCQqtV6H6QjYuqFP70g.PNG.ansdbtls4067/%EA%B7%B8%EB%A6%BC5.png?type=w800)
 
